@@ -4,3 +4,9 @@
 [submodule "scratch-gui"]
 	path = scratch-gui
 	url = https://github.com/scratchfoundation/scratch-gui.git
+[submodule "vm"]
+	path = vm
+	url = https://github.com/ElliNet13/scratch-vm.git
+[submodule "gui"]
+	path = gui
+	url = https://github.com/ElliNet13/scratch-gui.git
